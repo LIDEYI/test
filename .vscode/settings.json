@@ -1,0 +1,21 @@
+{
+    "files.autoSave": "onFocusChange",
+    
+    "go.buildOnSave": true,
+    
+    "go.lintOnSave": true,
+    
+    "go.vetOnSave": true,
+    
+    "go.buildFlags": [],
+    
+    "go.lintFlags": [],
+    
+    "go.vetFlags": [],
+    
+    "go.useCodeSnippetsOnFunctionSuggest": false,
+    
+    "go.formatTool": "goreturns",
+    "go.goroot": "d:\\go",
+    "go.gopath": "d:\\dev\\go"
+}
